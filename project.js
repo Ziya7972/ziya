@@ -3,3 +3,5 @@
 a="Frooqui"
 
 b="Ziauddin"
+
+console.log(a,b)
